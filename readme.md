@@ -5,6 +5,9 @@ This project provides a blockchain-based platform that enables decentralized len
 
 ## Contract Address
 0x60F8c2e7Cefe4a58a1AE87E81cb8A23e3512FF9F
+![image](https://github.com/user-attachments/assets/b3e10354-16df-4e2d-bf0d-8501e522b078)
+
+
 
 ## Project Vision
 Our vision is to create a global ecosystem where individuals can easily access financial support for skill development without relying on traditional financial institutions. By decentralizing the lending process, we aim to remove intermediaries, reduce costs, and provide fair access to education funding for everyone.
